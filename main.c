@@ -1,7 +1,7 @@
 #include "led.h"
 #include "keyboard.h"  
 #include "timer_interrupts.h"
-
+//git test
 void Automat(void) {
 enum LedMoveState {STOP, LEFT, RIGHT};
 static enum LedMoveState eLedState = STOP;
