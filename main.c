@@ -68,3 +68,4 @@ int main () {
 	 	iMainLoopCtr++;
 	}
 }
+//test zmiany
